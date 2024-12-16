@@ -1,0 +1,23 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Commonjs Modules === Esercizio 16/12/2024 ## Consegna Lavoriamo con i moduli commonjs esportando e importando valori e funzioni.",
+  "main": "names.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "namestart": "node names.js",
+    "namewatch": "node --watch names.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francesca-Lisi/node-commonjs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francesca-Lisi/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/Francesca-Lisi/node-commonjs-modules#readme"
+}
