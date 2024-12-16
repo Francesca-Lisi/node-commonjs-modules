@@ -5,3 +5,5 @@ function getName (firstName, lastName) {
     'lastName': lastName
   }
 }
+
+module.exports = getName
