@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "namestart": "node names.js",
-    "namewatch": "node --watch names.js"
-
+    "namewatch": "node --watch hobbies.js",
+    "hobbystart": "node names.js",
+    "hobbywatch": "node --watch hobbies.js"
   },
   "repository": {
     "type": "git",

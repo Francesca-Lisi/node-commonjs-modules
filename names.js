@@ -1,6 +1,6 @@
 function getName (firstName, lastName) {
-  let object = {}
-  return object ={
+  let objectName = {}
+  return objectName ={
     'firstName': firstName,
     'lastName': lastName
   }
