@@ -8,7 +8,9 @@
     "namestart": "node names.js",
     "namewatch": "node --watch hobbies.js",
     "hobbystart": "node names.js",
-    "hobbywatch": "node --watch hobbies.js"
+    "hobbywatch": "node --watch people.js",
+    "peoplestart": "node names.js",
+    "peoplewatch": "node --watch people.js"
   },
   "repository": {
     "type": "git",
